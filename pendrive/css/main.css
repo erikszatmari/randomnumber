@@ -1,0 +1,16 @@
+.add-data {
+    margin: 2%;
+}
+.data-error{
+    position: relative;
+    top: 0px;
+    left: 10px;
+    color: red;
+}
+
+.data-success{
+    position: relative;
+    top: 0px;
+    left: 10px;
+    color: green;
+}
